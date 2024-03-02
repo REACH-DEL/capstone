@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(13, 100, 159);
+    
+}
+.profile-image{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+.ms-3 {
+    margin-left: 1rem;
+}
